@@ -1,0 +1,4 @@
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\bin\Debug\Iska.dll
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\bin\Debug\Iska.pdb
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\obj\Debug\Iska.dll
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\obj\Debug\Iska.pdb

@@ -1,0 +1,5 @@
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\bin\Release\Iska.dll
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\bin\Release\Iska.pdb
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\obj\Release\Iska.csprojResolveAssemblyReference.cache
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\obj\Release\Iska.dll
+C:\Users\Chukwubuikem\documents\visual studio 2012\Projects\Iska\Iska\obj\Release\Iska.pdb
